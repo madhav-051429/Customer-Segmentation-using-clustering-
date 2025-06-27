@@ -33,4 +33,4 @@ This project focuses on segmenting customers based on their purchasing behavior 
 
 ---
 
-> 📄 For detailed metrics, visualizations, and interpretation, please refer to [`Interpretations.ipynb`](./Interpretations.ipynb) and the final project report.
+> 📄 For detailed metrics, visualizations, and interpretation, please refer to [`CSF415_G6_E2 (1).ipynb`](./CSF415_G6_E2(1).ipynb) and the final project report.
